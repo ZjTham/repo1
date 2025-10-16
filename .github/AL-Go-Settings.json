@@ -1,6 +1,7 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.3/.Modules/settings.schema.json",
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v8.0/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-  "useProjectDependencies": true
+  "useProjectDependencies": true,
+  "templateSha": "359d32d051a800d7e28c3a0f97a724b16aed403b"
 }
