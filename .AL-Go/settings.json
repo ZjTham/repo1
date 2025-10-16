@@ -1,8 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.3/.Modules/settings.schema.json",
-  "country": "us",
+  "country": "w1",
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "repoVersion": "2.0"
+  "repoVersion": "1.0",
+  "artifact": "bcartifacts-exdbf9fwegejdqak.b02.azurefd.net/sandbox/27.0.38460.40982/w1/latest"
 }

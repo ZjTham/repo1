@@ -2,7 +2,7 @@
   "id": "aa794a2e-c337-42f8-9cdb-ddf249f3a2f8",
   "name": "app1",
   "publisher": "test",
-  "version": "2.0.0.0",
+  "version": "1.0.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -13,7 +13,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "27.0.0.0",
   "idRanges": [
     {
       "from": 55000,
