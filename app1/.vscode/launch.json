@@ -1,5 +1,15 @@
 {
     "version": "0.2.0",
     "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Tham SandboxTemp3",
+            "tenant": "9ffd0736-b417-4ad5-821d-65fb386c1602",
+            "environmentType": "Sandbox",
+            "environmentName": "SandboxTemp3",
+            "schemaUpdateMode": "ForceSync",
+            "dependencyPublishingOption": "Ignore"
+        }
     ]
 }
